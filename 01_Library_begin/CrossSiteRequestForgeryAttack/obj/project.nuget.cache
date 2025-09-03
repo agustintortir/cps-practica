@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "afdupSKyTnILmESVpO31mDUiQuw9TQFNxPL7ITjYJNM9FSOYt990fS2yAMZ3rUOVMs4L6HbKf9ZD1F1uDYeiBw==",
+  "dgSpecHash": "vYs0OOkk1As=",
   "success": true,
   "projectFilePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
   "expectedPackageFiles": [
@@ -300,5 +300,198 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AspNetCore.App\" 2.1.1 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-23cv-jh4v-vffm",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AspNetCore.App\" 2.1.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-655q-9gvg-q4cm",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AspNetCore.App\" 2.1.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-6px8-22w5-w334",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AspNetCore.App\" 2.1.1 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-cgpw-2gph-2r9g",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AspNetCore.App\" 2.1.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-f8qx-mjcq-wfgx",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AspNetCore.App\" 2.1.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-hxrm-9w7p-39cc",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AspNetCore.App\" 2.1.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-j378-6mmw-hqfr",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AspNetCore.App\" 2.1.1 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-prrf-397v-83xh",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.NETCore.App\" 2.1.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-2xjx-v99w-gqf3",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.NETCore.App\" 2.1.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-3gp9-h8hw-pxpw",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.NETCore.App\" 2.1.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-3w5p-jhp5-c29q",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.NETCore.App\" 2.1.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-5633-f33j-c6f7",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.NETCore.App\" 2.1.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-6px8-22w5-w334",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.NETCore.App\" 2.1.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-g5vf-38cp-4px9",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.NETCore.App\" 2.1.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-vgwq-hfqc-58wv",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.NETCore.App\" 2.1.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-x5qj-9vmx-7g6g",
+      "projectPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\01_Library_begin\\CrossSiteRequestForgeryAttack\\CrossSiteRequestForgeryAttack.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
 }

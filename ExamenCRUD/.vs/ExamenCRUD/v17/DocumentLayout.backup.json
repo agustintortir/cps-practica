@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\materias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Delete.cshtml",
               "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Delete.cshtml",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Program.cs",
               "RelativeDocumentMoniker": "ExamenCRUD\\Program.cs",
@@ -138,19 +138,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ExamenCRUD\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T11:30:42.231Z"
+              "WhenOpened": "2025-08-25T11:30:42.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Create.cshtml",
               "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Create.cshtml",
@@ -162,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MateriasController.cs",
               "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Controllers\\MateriasController.cs",
               "RelativeDocumentMoniker": "ExamenCRUD\\Controllers\\MateriasController.cs",
@@ -186,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\appsettings.json",
               "RelativeDocumentMoniker": "ExamenCRUD\\appsettings.json",
@@ -194,12 +195,11 @@
               "RelativeToolTip": "ExamenCRUD\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-25T11:16:27.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T11:16:27.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Index.cshtml",
               "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Index.cshtml",

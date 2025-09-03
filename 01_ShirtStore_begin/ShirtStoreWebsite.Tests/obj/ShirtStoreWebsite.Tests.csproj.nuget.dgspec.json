@@ -29,6 +29,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.21.2.36/CommonsCps.2.0.0.nupkg": {},
+          "http://186.189.235.156/nugetCps/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,6 +113,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.21.2.36/CommonsCps.2.0.0.nupkg": {},
+          "http://186.189.235.156/nugetCps/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
